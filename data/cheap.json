@@ -27,7 +27,7 @@
         "foods_name": "Burger",
         "rating": 4.3,
         "description": "A sandwich consisting of a grilled or fried patty made from ground meat, usually beef, and served on a bun with various toppings such as cheese, lettuce, tomato, and condiments like ketchup and mayo.",
-        "img": "https://img.freepik.com/free-photo/pizza-food_144627-38495.jpg?t=st=1683071712~exp=1683072312~hmac=9c7ebd3f4c97bc3d7278ed8cfbf87e768ea8b2927cc06e2063b4dee5d940b11a"
+        "img": "https://img.freepik.com/free-photo/double-hamburger-isolated-white-background-fresh-burger-fast-food-with-beef-cream-cheese_90220-1192.jpg?w=740&t=st=1683192049~exp=1683192649~hmac=e0107b8af822ffbfe676a25852c0c8a04b560c75b719400718397c0d2a21c2c4"
       }
     ]
   },
@@ -60,7 +60,7 @@
         "foods_name": "Burger",
         "rating": 4.3,
         "description": "A sandwich consisting of a grilled or fried patty made from ground meat, usually beef, and served on a bun with various toppings such as cheese, lettuce, tomato, and condiments like ketchup and mayo.",
-        "img": "https://img.freepik.com/free-photo/young-surprised-caucasian-cook-girl-chef-uniform-holds-pot-looks-camera-isolated-orange-wall-with-copy-space_141793-33556.jpg?w=900&t=st=1683012804~exp=1683013404~hmac=3bbee6c286a99dd1946b397d2bf5eda28da2dd237a67beee0506ffcf818d215c"
+        "img": "https://img.freepik.com/premium-photo/doner-kebab-shawarma-with-ingredients-floating-air-beef-meat-lettuce-onion-tomatos-spice_120795-742.jpg?w=1380"
       }
     ]
   },
@@ -85,17 +85,19 @@
       {
         "foods_name": "Sushi",
         "rating": 4.8,
-        "description": "A Japanese dish made with vinegared rice and often served with raw fish or other seafood, vegetables, and sometimes egg.",
-        "img": "https://img.freepik.com/free-photo/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food_1150-26580.jpg?w=996&t=st=1683069975~exp=1683070575~hmac=08cfb03c58de504f4b879d5a82c256e4c8a85e251490647615b8cef268ecccb0"
+        "description": "A sandwich consisting of a grilled or fried patty made from ground meat, usually beef, and served on a bun with various toppings such as cheese, lettuce, tomato, and condiments like ketchup and mayo.",
+        "img":"https://img.freepik.com/free-photo/grilled-chicken-legs-barbecue-sauce-with-pepper-seeds-parsley-salt-black-stone-plate-black-stone-table_1150-37858.jpg?w=996&t=st=1683193072~exp=1683193672~hmac=9617f6a6d379b05e9a63d7b91a6cba558e8e37794c2a809299e5a547710b4d06"
       },
       {
         "foods_name": "Burger",
         "rating": 4.3,
         "description": "A sandwich consisting of a grilled or fried patty made from ground meat, usually beef, and served on a bun with various toppings such as cheese, lettuce, tomato, and condiments like ketchup and mayo.",
-        "img": "https://img.freepik.com/free-photo/young-surprised-caucasian-cook-girl-chef-uniform-holds-pot-looks-camera-isolated-orange-wall-with-copy-space_141793-33556.jpg?w=900&t=st=1683012804~exp=1683013404~hmac=3bbee6c286a99dd1946b397d2bf5eda28da2dd237a67beee0506ffcf818d215c"
+        "img": "https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg?w=1060&t=st=1683193111~exp=1683193711~hmac=9bfcdb0daf9b30cc404aa94db06536c2d45c1f7770c8ff05891fee32f9b9a7ab"
       }
     ]
   },
+
+
   {
     "id": 5,
     "name": "Burger Joint",
@@ -116,8 +118,7 @@
       {
         "foods_name": "Sushi",
         "rating": 4.8,
-        "description": "A Japanese dish made with vinegared rice and often served with raw fish or other seafood, vegetables, and sometimes egg.",
-        "img": "https://img.freepik.com/free-photo/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food_1150-26580.jpg?w=996&t=st=1683069975~exp=1683070575~hmac=08cfb03c58de504f4b879d5a82c256e4c8a85e251490647615b8cef268ecccb0"
+        "description": "https://img.freepik.com/premium-photo/large-bowl-food-with-fish-vegetables_197463-2405.jpg?w=740"
       },
       {
         "foods_name": "Burger",
@@ -148,13 +149,13 @@
         "foods_name": "Sushi",
         "rating": 4.8,
         "description": "A Japanese dish made with vinegared rice and often served with raw fish or other seafood, vegetables, and sometimes egg.",
-        "img": "https://img.freepik.com/free-photo/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food_1150-26580.jpg?w=996&t=st=1683069975~exp=1683070575~hmac=08cfb03c58de504f4b879d5a82c256e4c8a85e251490647615b8cef268ecccb0"
+        "img": "https://img.freepik.com/premium-photo/colorful-macarons-cookies-french-cakes-sweet-colorful-french-macaroons-fall-fly-motion-with-slices_96270-19.jpg?w=996"
       },
       {
         "foods_name": "Burger",
         "rating": 4.3,
         "description": "A sandwich consisting of a grilled or fried patty made from ground meat, usually beef, and served on a bun with various toppings such as cheese, lettuce, tomato, and condiments like ketchup and mayo.",
-        "img": "https://img.freepik.com/free-photo/young-surprised-caucasian-cook-girl-chef-uniform-holds-pot-looks-camera-isolated-orange-wall-with-copy-space_141793-33556.jpg?w=900&t=st=1683012804~exp=1683013404~hmac=3bbee6c286a99dd1946b397d2bf5eda28da2dd237a67beee0506ffcf818d215c"
+        "img": "https://img.freepik.com/free-photo/tasty-burger-isolated-white-background-fresh-hamburger-fastfood-with-beef-cheese_90220-1063.jpg?w=740&t=st=1683193290~exp=1683193890~hmac=770343afc9980b4b534df117e9bca058ce9ff9e631ecaa8a423febfb4a1706e2"
       }
     ]
   },
@@ -279,7 +280,7 @@
         "foods_name": "Burger",
         "rating": 4.3,
         "description": "A sandwich consisting of a grilled or fried patty made from ground meat, usually beef, and served on a bun with various toppings such as cheese, lettuce, tomato, and condiments like ketchup and mayo.",
-        "img": "https://img.freepik.com/free-photo/young-surprised-caucasian-cook-girl-chef-uniform-holds-pot-looks-camera-isolated-orange-wall-with-copy-space_141793-33556.jpg?w=900&t=st=1683012804~exp=1683013404~hmac=3bbee6c286a99dd1946b397d2bf5eda28da2dd237a67beee0506ffcf818d215c"
+        "img": "https://img.freepik.com/premium-photo/bargar-fast-food-image-ai-generated_812649-408.jpg?w=740"
       }
     ]
   }
