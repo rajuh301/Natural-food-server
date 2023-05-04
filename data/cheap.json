@@ -7,6 +7,9 @@
     "experience":15,
     "recipe": 5,
     "countery":"Indid",
+
+    "description": "The executive chef is the top chef in a restaurant or culinary establishment. They are responsible for overseeing all kitchen operations, including menu planning, recipe development, food preparation, and kitchen staff management.",
+
     "foods": [
       {
         "foods_name": "Pizza",
@@ -37,6 +40,9 @@
     "experience":10,
     "recipe": 4,
     "countery":"Bangladesh",
+    "description": "The sous chef is the second in command in a kitchen, responsible for overseeing kitchen operations and managing kitchen staff in the absence of the head chef. They also help with menu planning and recipe development.",
+
+
     "foods": [
       {
         "foods_name": "Pizza",
@@ -66,6 +72,9 @@
     "experience":5,
     "recipe": 4,
     "countery":"Pakestan",
+
+    "description": "The pastry chef specializes in desserts, pastries, and other baked goods. They are responsible for creating and executing dessert menus, developing new pastry recipes, and managing pastry kitchen staff.",
+
     "foods": [
       {
         "foods_name": "Pizza",
@@ -95,6 +104,8 @@
     "experience":8,
     "recipe": 5,
     "countery":"Indid",
+    "description": "The saucier is a chef who specializes in making sauces, stews, and braises. They are responsible for creating and executing recipes that involve these preparations.",
+
     "foods": [
       {
         "foods_name": "Pizza",
@@ -124,6 +135,8 @@
     "experience":6,
     "recipe": 6,
     "countery":"Bangladesh",
+    "description": "The grill chef is responsible for cooking meats, fish, and vegetables on the grill. They are typically in charge of the grill station in a restaurant kitchen.",
+
     "foods": [
       {
         "foods_name": "Pizza",
@@ -153,6 +166,9 @@
     "experience":3,
     "recipe": 7,
     "countery":"UK",
+    "description": "A line cook is a general kitchen position responsible for preparing and cooking dishes to order. They typically work under",
+
+
     "foods": [
       {
         "foods_name": "Pizza",
@@ -182,6 +198,8 @@
     "experience":2,
     "recipe": 4,
     "countery":"Bangladesh",
+    "description": "The sous chef is the second in command in a kitchen, responsible for overseeing kitchen operations and managing kitchen staff in the absence of the head chef. They also help with menu planning and recipe development.",
+
     "foods": [
       {
         "foods_name": "Pizza",
@@ -211,6 +229,8 @@
     "experience":7,
     "recipe": 4,
     "countery":"Indid",
+    "description": "The pastry chef specializes in desserts, pastries, and other baked goods. They are responsible for creating and executing dessert menus, developing new pastry recipes, and managing pastry kitchen staff.",
+
     "foods": [
       {
         "foods_name": "Pizza",
@@ -240,6 +260,8 @@
     "experience":4,
     "recipe": 5,
     "countery":"Indid",
+    "description": "The saucier is a chef who specializes in making sauces, stews, and braises. They are responsible for creating and executing recipes that involve these preparations.",
+
     "foods": [
       {
         "foods_name": "Pizza",
