@@ -25,5 +25,5 @@ app.get('/cheap/:id', (req, res) =>{
 
 
 app.listen(port, () =>{
-    console.log(`cheap server is running on port: ${port}`)
+    console.log(`cheap server is running on port :${port}`)
 })
