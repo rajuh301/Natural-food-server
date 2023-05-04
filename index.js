@@ -9,7 +9,7 @@ const cheap = require('./data/cheap.json')
 app.use(cors());
 
 app.get('/', (req, res) =>{
-    res.send('Server running')
+    res.send('Server running ')
 });
 
 app.get('/cheap', (req, res) =>{
